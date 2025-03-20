@@ -1,0 +1,11 @@
+
+project_id = "kvgpfdmrpnnqjftrmkvr"
+
+[send-email]
+verify_jwt = false
+
+[reset-password]
+verify_jwt = false
+
+[admin-notification]
+verify_jwt = false
